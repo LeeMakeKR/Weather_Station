@@ -1,1 +1,7 @@
 **/credentials.h
+
+# Python
+**/.venv/
+**/__pycache__/
+**/*.pyc
+**/.env
